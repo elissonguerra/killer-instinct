@@ -1,0 +1,172 @@
+[
+    {
+        "Numero": 1,
+        "Nome": "Fulgore",
+        "Descricao": "Uma das mais recentes criações da Ultratech e possivelmente a mais perigosa até agora, Fulgore é a primeira de uma série planejada de ciber-soldados com tecnologia de última geração, traballhado febrilmente nos últimos anos por um gênio da Ultratech particularmente errático e Sua equipe de engenheiros asiáticos. Os boatos escuros circundam a respeito de onde as peças humanas do protótipo vieram - os tipos de rumores que ninguém ousa mencionar. Os rumores dizem que as partes humanas se originaram de uma operação de colheita de órgãos humanos em Moscou. Antes de o modelo Fulgore Mk.I ser concluído, os cientistas já estavam trabalhando em uma atualização: e para provar o valor final do protótipo, ele é colocado no torneio com ordens para destruir todos os que se oporem a ele.",
+        "Idade": 1,
+        "Altura": 2.04,
+        "Peso": 254,
+        "Ataques": ["Laser Storm (Simples)",
+        "Laser Storm (Duplo)",
+        "Laser Storm (Triplo)",
+        "Plasma-Port",
+        "Plasma Slice",
+        "Eyelaser",
+        "Cyber Dash",
+        "Reflect"]
+    },
+
+    {
+        "Numero": 2,
+        "Nome": "Cinder",
+        "Descricao": "Cinder é uma pessoa de caráter extremamente podre em ambos os universos da franquia; arrogante, soberbo e convencido quase a ponto de se tornar megalomaníaco, Cinder subestima muito até o mais forte dos oponentes. Ele também é muito ganancioso, capaz de trair aliados por poder para si, ter se transformado em um híbrido em troca de poder parece não ter sido nada de mais para ele apesar de ter perdido sua humanidade, Cinder também tem um senso de humor muito apurado levando na brincadeira até as mais sérias situações.",
+        "Idade": 31,
+        "Altura": 2.04,
+        "Peso": 88,
+        "Ataques": ["Mini Torch",
+        "Trailblazer",
+        "Semi Invisibility",
+        "Invisibility",
+        "Fire Flash",
+        "Inferno",
+        "Air Juggle"]
+    },
+
+    {
+        "Numero": 3,
+        "Nome": "Glacius",
+        "Descricao": "Tanto o Glacius de KI1 quanto seu ancestral em KI2/G tem a mesma personalidade que se repete no reboot de 2013, Glacius tem um imenso senso de justiça, e não prejudica ninguém, sempre tenta resolver as coisas de forma pacífica e só luta caso seja realmente necessário, coisa que não gosta. Ele também mostra grande amor e afeição pelos seres de sua raça mas também demonstra um certo nível de amizade com os humanos que não querem lhe prejudicar.",
+        "Idade": "Desconhecido",
+        "Altura": 1.98,
+        "Peso": 136,
+        "Ataques": ["Shock Wave",
+        "Could Shoulder",
+        "Ice Lance",
+        "Liquidize"]
+    },
+
+    {
+        "Numero": 4,
+        "Nome": "Jago",
+        "Descricao": "A personalidade de Jago é bastante calma e amigável, Jago é o tipo de pessoa que coloca a disciplina acima de tudo, quando ele tem um objetivo em mente, o foco é total, sempre está meditando para fins espirituaise sempre busca aprender mais sobre coisas de seu interesse como jeitos de treinar seu corpo e sua mente por exemplo, isso em todos os jogos da saga KI. No reboot de 2013 a personalidade dele não muda em nada mas graças a crise de fé que ele sofre devido Gargos, o monge entra em uma profunda crise existencial e faz de tudo para poder livrar o mal do mundo e dele mesmo o que o deixa incapacitado de ficar em paz, para amenizar seu sofrimento, sua irmã mais velha Orchid o apoia e o consola sempre que necessário e ele faz o mesmo por ela que está com o emocional e psicológico danificados.",
+        "Idade": 21,
+        "Altura": 1.94,
+        "Peso": 86,
+        "Ataques":["Endoukuker",
+        "Yellow Endoukuker",
+        "Tiger Fury",
+        "Sliding Tiger Fury",
+        "Laser Sword",
+        "Wind Kick",
+        "Fast Wind Kick"]
+    },
+
+    {
+        "Numero": 5,
+        "Nome": "Riptor",
+        "Descricao": "Riptor é um animal, sua única preocupação é comer pois sempre anda com fome e procriar quando pode, ela obedece bem aos comandos de ARIA mas pode ficar sem controle a qualquer momento, no entanto, ela pode desenvolver laços de amizade com algum dono que cuide direito dela, não só ela mas as outras Riptors também, mas mesmo assim sua selvageria a domina podendo se voltar contra seus donos.",
+        "Idade": 4,
+        "Altura": 2.31,
+        "Peso": 317,
+        "Ataques": ["Claw Uppecurt",
+        "Tailflip",
+        "Flaming Venom",
+        "Dragon Breath",
+        "Jump Rake",
+        "Rampage",
+        "Reverse Jump Rake"]
+    },
+
+    {
+        "Numero": 6,
+        "Nome": "Sabrewulf",
+        "Descricao": "Sabrewulf sofre por estar cada vez mais tendo a humanidade arrancada de seu corpo graças á bestialidade de sua doença, se preocupa em ferir inocentes e causar estragos por onde passa, mas não tolera inimigos de forma alguma.",
+        "Idade": 45,
+        "Altura": 1.94,
+        "Peso": 181,
+        "Ataques": ["Flaming Bat",
+        "Sabre Spin",
+        "Reverse Sabre Spin",
+        "Sabre Roll",
+        "Sabre Slap",
+        "Sabre Pounce",
+        "Fast Sabre Pounce",
+        "Howl"]
+    },
+
+    {
+        "Numero": 7,
+        "Nome": "Spinal",
+        "Descricao": "Em todos os jogos da franquia Spinal tem uma personalidade insana com a mente perturbada, que fica mais evidente no reboot de 2013, sempre está espalhando caos e discórdia em tudo quanto é lugar que chega, está sempre a gargalhar em loucura durante os confrontos com seus inimigos. No universo original da franquia Spinal não era uma má pessoa mas no reboot de 2013 sua índole ficou mais obscura.",
+        "Idade": 2650,
+        "Altura": 1.88,
+        "Peso": 49,
+        "Ataques": ["Skeleport",
+        "Power Devour",
+        "Searing Skull",
+        "Soul Sword",
+        "Bone Shaker",
+        "Super Searing Skull",
+        "Sliding Kick"]
+    },
+
+    {
+        "Numero": 8,
+        "Nome": "TJ Combo",
+        "Descricao": "Combo é o típico americano orgulhoso e soberbo que adora subestimar seus oponentes e diminuí-los com zombarias e os mais variados xingamentos, o rapaz tem um grande apego a fama e fortuna se tornando uma pessoa bem superficial, adora se gabar em suas vitórias mas quando perde age como um mal perdedor e tem uma péssima mania de trapacear e querer levar vantagem em tudo.",
+        "Idade": 25,
+        "Altura": 2.01,
+        "Peso": 99,
+        "Ataques": ["Powerline",
+        "Rollercoaster",
+        "Spinfist",
+        "Flying Knee",
+        "Fast Flying Knee",
+        "Knee K.O",
+        "Cyclone",
+        "Turn Around Punch"]
+    },
+
+    {
+        "Numero": 9,
+        "Nome": "Chief Thunder",
+        "Descricao": "Thunder é um homem de coração nobre, leal a sua família e suas origens, apesar de saber inglês prefere falar a sua lingua nativa, a Niimi'ipuutímt, uma linguagem Nez Perce. Ele não liga para grandes poderes e riquezas, é um homem que valoriza muito as amizades e familiares que tem e coloca os sentimentos acima de tudo, também é um homem bem sério, é difícil ele ter senso de humor.",
+        "Idade": 42,
+        "Altura": 2.14,
+        "Peso": 127,
+        "Ataques":["Phoenix",
+        "Sammamish",
+        "Triplax",
+        "Tomahawk"]
+    },
+
+    {
+        "Numero": 10,
+        "Nome": "B. Orchid",
+        "Descricao": "Nos dois primeiros jogos da série Orchid tem uma personalidade jovial, extrovertida, brincalhona e por fim sensual, não perde uma única oportunidade de esbanjar sensualidade (principalmente em suas vitórias) e claro, adora tirar sarro de seus inimigos, ao mesmo tempo que para seus amigos possui um grande sentimento de amor e preocupação com a vida de todos, tem também um ódio profundo e mortal contra seus inimigos o que a leva a antes de confrontá-los bolar as mais variadas estratégias para vencê-los e surpreender a todos.",
+        "Idade": 23,
+        "Altura": 1.71,
+        "Peso": 57,
+        "Ataques": ["Lasaken",
+        "Flick Flack",
+        "Fire Cat",
+        "Spinning Sword",
+        "Ichi"]
+    },
+
+    {
+        "Numero": 11,
+        "Nome": "Eyedol",
+        "Descricao": "Em ambos os universos Eyedol é um ser descontrolado cheio de ódio que espalha terror e destruição por onde passa, desde que se tornou um semi-deus trata os humanos como seres muito inferiores a ele e graças aos seus poderes imbatíveis sua mania de grandeza cresceu incontavelmente. Eyedol também demonstra ser extremamente vingativo.",
+        "Idade": 0,
+        "Altura": 0,
+        "Peso": 0,
+        "Ataques": ["Fireball",
+        "Horn Charge",
+        "Mace Swing",
+        "Foward Leaping Mace",
+        "Upward Leaping Mace",
+        "Backward Leaping Mace",
+        "Energy Stomp"]
+    }
+]
