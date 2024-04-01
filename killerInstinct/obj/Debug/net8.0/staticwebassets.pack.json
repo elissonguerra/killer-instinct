@@ -1,16 +1,88 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\killerInstinct.bundle.scp.css",
-      "PackagePath": "staticwebassets\\killerInstinct.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\favicons\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\favicons\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\favicons\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\favicons\\site.webmanifest",
+      "PackagePath": "staticwebassets\\img\\favicons\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\personagens\\001.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\personagens\\002.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\personagens\\003.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\personagens\\004.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\personagens\\005.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\personagens\\006.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\personagens\\007.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\personagens\\008.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\personagens\\009.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\personagens\\010.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\img\\personagens\\011.jpg",
+      "PackagePath": "staticwebassets\\img\\personagens\\011.jpg"
     },
     {
       "Id": "C:\\Users\\etec\\Desktop\\killer-instinct\\killerInstinct\\wwwroot\\js\\site.js",

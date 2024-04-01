@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using killerInstinct.Models;
+using System.Text.Json;
 
 namespace killerInstinct.Controllers;
 
@@ -15,7 +16,14 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        List<Personagem> killerInstincts = [];
+        using (StreamReader leitor = new("Data\\personagens.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            killerInstincts = JsonSerializer.Deserialize<List<Personagem>>(dados);
+        }
+
+        return View(killerInstincts);
     }
 
     public IActionResult Privacy()

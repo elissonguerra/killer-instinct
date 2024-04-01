@@ -1,5 +1,7 @@
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\bin\Debug\net8.0\appsettings.json
+C:\Users\etec\Desktop\killer-instinct\killerInstinct\bin\Debug\net8.0\Data\personagens.json
+C:\Users\etec\Desktop\killer-instinct\killerInstinct\bin\Debug\net8.0\Data\tipos.json
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\bin\Debug\net8.0\killerInstinct.staticwebassets.runtime.json
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\bin\Debug\net8.0\killerInstinct.exe
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\bin\Debug\net8.0\killerInstinct.deps.json
@@ -21,9 +23,7 @@ C:\Users\etec\Desktop\killer-instinct\killerInstinct\obj\Debug\net8.0\staticweba
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.killerInstinct.props
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.killerInstinct.props
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\etec\Desktop\killer-instinct\killerInstinct\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\obj\Debug\net8.0\scopedcss\bundle\killerInstinct.styles.css
-C:\Users\etec\Desktop\killer-instinct\killerInstinct\obj\Debug\net8.0\scopedcss\projectbundle\killerInstinct.bundle.scp.css
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\obj\Debug\net8.0\killerInstinct.dll
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\obj\Debug\net8.0\refint\killerInstinct.dll
 C:\Users\etec\Desktop\killer-instinct\killerInstinct\obj\Debug\net8.0\killerInstinct.pdb

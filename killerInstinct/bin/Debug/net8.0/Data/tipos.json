@@ -1,0 +1,42 @@
+[
+    {
+      "Nome": "Máquina",
+      "Cor": "#aab"
+    },
+    {
+      "Nome": "Fogo",
+      "Cor": "#39f"
+    },
+    {
+      "Nome": "Gelo",
+      "Cor": "#76e"
+    },
+    {
+      "Nome": "Ninja",
+      "Cor": "#fc3"
+    },
+    {
+      "Nome": "Réptil",
+      "Cor": "#e9e"
+    },
+    {
+      "Nome": "Lobisomem",
+      "Cor": "#66b"
+    },
+    {
+      "Nome": "Caveira",
+      "Cor": "#f42"
+    },
+    {
+      "Nome": "Lutador",
+      "Cor": "#6cf"
+    },
+    {
+      "Nome": "Bruxa",
+      "Cor": "#ab6"
+    },
+    {
+      "Nome": "Monstro",
+      "Cor": "#b54"
+    } 
+]
