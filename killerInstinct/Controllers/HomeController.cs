@@ -23,7 +23,35 @@ public class HomeController : Controller
             killerInstincts = JsonSerializer.Deserialize<List<Personagem>>(dados);
         }
 
+        List<Tipo> tipos = [];
+        using (StreamReader leitor = new("Data\\tipos.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
+        }
+        ViewData["Tipos"] = tipos;
         return View(killerInstincts);
+    }
+
+    public IActionResult Details(int id)
+    {
+        List<Personagem> killerInstincts = [];
+        using (StreamReader leitor = new("Data\\personagens.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            killerInstincts = JsonSerializer.Deserialize<List<Personagem>>(dados);
+        }
+        List<Tipo> tipos = [];
+        using (StreamReader leitor = new("Data\\tipos.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            tipos = JsonSerializer.Deserialize<List<Tipo>>(dados);
+        }
+        ViewData["Tipos"] = tipos;
+        var Personagem = killerInstincts
+            .Where(p => p.Numero == id)
+            .FirstOrDefault();
+        return View(Personagem);
     }
 
     public IActionResult Privacy()

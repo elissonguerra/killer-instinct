@@ -1,11 +1,11 @@
 [
     {
       "Nome": "Máquina",
-      "Cor": "#aab"
+      "Cor": "#646464"
     },
     {
       "Nome": "Fogo",
-      "Cor": "#39f"
+      "Cor": "#FF0000"
     },
     {
       "Nome": "Gelo",
